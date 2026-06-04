@@ -4,7 +4,7 @@
 
 ### Submitted By
 
-**R.K. Vageesh Ragav**
+**GOPAL B**
 B.E. Electronics and Communication Engineering (ECE)
 Saveetha Engineering College, Chennai
 
@@ -257,14 +257,28 @@ end Behavioral;
 
 Simulation waveforms verify the correct operation of:
 
-* Half Adder
+* Half Adde
+* <img width="933" height="320" alt="image" src="https://github.com/user-attachments/assets/2afa740d-472c-4a9a-888f-4a56e862064a" />
+
 * Full Adder
+* <img width="858" height="258" alt="image" src="https://github.com/user-attachments/assets/f55f736b-75f5-474b-8f74-e393331dc99d" />
+
 * Half Subtractor
-* Full Subtractor
+* <img width="917" height="237" alt="image" src="https://github.com/user-attachments/assets/8a56f707-bd30-4889-a562-dda6ae37104e" />
+
+
 * 4:1 Multiplexer
+* <img width="901" height="160" alt="image" src="https://github.com/user-attachments/assets/460606d9-ae5b-41e3-b3b3-c474fbaaa239" />
+
 * 1:4 Demultiplexer
+* <img width="937" height="365" alt="image" src="https://github.com/user-attachments/assets/461d6724-a089-45da-a1bb-c47363ca37f4" />
+
 * 4:2 Encoder
+* <img width="946" height="425" alt="image" src="https://github.com/user-attachments/assets/d6671bc4-76c7-4bd6-9a7c-c15db8aad744" />
+
 * 2:4 Decoder
+* <img width="753" height="272" alt="image" src="https://github.com/user-attachments/assets/0213a2d0-dafb-4c31-91be-ad8a1c859a72" />
+
 
 *(Insert waveform screenshots here)*
 
@@ -278,11 +292,11 @@ Thus, the Adders, Subtractors, Multiplexer, Demultiplexer, Encoder and Decoder c
 
 # AUTHOR DETAILS
 
-**Name:** R.K. Vageesh Ragav
+**Name:** GOPAL B
 **Department:** Electronics and Communication Engineering (ECE)
 **College:** Saveetha Engineering College
 **Course Code:** EC1801 – Digital Logic Circuits Design Laboratory
-**Experiment No.:** 4
+**Experiment No.:** 3
 
 ---
 
